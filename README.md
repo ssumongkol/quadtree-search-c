@@ -29,4 +29,4 @@ Quadtrees are widely used in various fields such as computer graphics, geographi
 To compile the project, use the following command:
 
 ```bash
-gcc -o main main.c
+make
